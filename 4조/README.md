@@ -73,5 +73,3 @@ https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset?resource
         - 위의 인기동영상이 많은 채널의 대조군을 뭘로 잡아야 할지도 생각할 필요성
     
 5. 방탄소년단과 관련한 분석
-
-..
